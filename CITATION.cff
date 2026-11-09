@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use NervSharp in a benchmark, cite the versioned release and your hardware configuration."
+title: "NervSharp"
+type: software
+authors:
+  - name: NervSharp
+license: MIT
+version: 0.1.0
