@@ -1,0 +1,13 @@
+.git/
+.venv/
+.pytest_cache/
+__pycache__/
+*.py[cod]
+*.gguf
+*.enc
+.nervsharp/
+dist/
+build/
+*.egg-info/
+.env
+.env.*
